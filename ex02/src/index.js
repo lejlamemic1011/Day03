@@ -1,9 +1,7 @@
 function main() {
-console.log ('Hello Wold')!
-   // kada se runa program ce ispisati hello world 
-   
+   // kada se runa program ce ispisati hello world al malo sutra
+   /* ovim se sve zakomentarise i kraj komentara je */ 
 }
 main ();
 module.exports = main; 
 
-/* ovim se sve zakomentarise i kraj komentara je */ 
