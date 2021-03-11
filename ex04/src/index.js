@@ -1,11 +1,10 @@
-function main() {
-console.log ('Hello Wold')!
-   // kada se runa program ce ispisati hello world 
-var x = 10;  
-var y = x; 
-return [x,y];
+function main () {
+    //Only change code below this line
+var x = 10;
+y = x;
+    //Only change code above this line
+    return [x, y];
 }
-main ();
-module.exports = main; 
 
-/* ovim se sve zakomentarise i kraj komentara je */ 
+console.log(main());
+module.exports = main;
