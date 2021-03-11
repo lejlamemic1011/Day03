@@ -1,9 +1,9 @@
-function main() {
-console.log ('Hello Wold')!
-   // kada se runa program ce ispisati hello world 
-var forCat = "Leli";   
+function main () {
+    //Only change code below this line
+var forCat
+    //Only change code below this line
 }
-main ();
-module.exports = main; 
 
-/* ovim se sve zakomentarise i kraj komentara je */ 
+main();
+
+module.exports = main;
