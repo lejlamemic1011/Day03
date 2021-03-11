@@ -1,13 +1,14 @@
 function main() {
-console.log ('Hello Wold')!
-   // kada se runa program ce ispisati hello world 
-var x = 9;  
-var y = 16; 
-var z = My name is John !
-
-return x,y,z;
+    // Only change code below this line
+var x = 7;
+var y = 12;
+var z = "My name is"
+    // Only change code above this line
+    x = x + 2;
+    y = y + 4;
+    z = z + " John!";
+    return [x, y, z];
 }
-main ();
-module.exports = main; 
 
-/* ovim se sve zakomentarise i kraj komentara je */ 
+console.log(main());
+module.exports = main;
