@@ -1,11 +1,10 @@
 function main() {
-console.log ('Hello Wold')!
-   // kada se runa program ce ispisati hello world 
-var x = 10;  
+    // Only change code below this line
+var x = 8;
+    // Only change code above this line
+    return x;
 
-return x;
 }
-main ();
-module.exports = main; 
 
-/* ovim se sve zakomentarise i kraj komentara je */ 
+console.log(main());
+module.exports = main;
