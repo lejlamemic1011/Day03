@@ -1,7 +1,9 @@
 function main() {
-   // kada se runa program ce ispisati hello world al malo sutra
-   /* ovim se sve zakomentarise i kraj komentara je */ 
+    // Only change code below this line
+//promjena
+/* druga promjena */
 }
-main ();
-module.exports = main; 
 
+console.log(main());
+
+module.exports = main;
